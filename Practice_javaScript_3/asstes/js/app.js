@@ -2,6 +2,10 @@
 //     var str = document.getElementById("Tech1").value;
 //     alert ( " Hello "  +  str)
 // }
- 
 
-const got = (new URL(document.location)).search
+function setTimeout() {
+    let  InputName = document.querySelector("#InputName");
+    let message = document.querySelector("#message")
+
+    message.innerHTML = "Hello Mis / Sir" + Name.value;
+}
