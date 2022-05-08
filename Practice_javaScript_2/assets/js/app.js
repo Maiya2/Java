@@ -116,7 +116,9 @@
 // document.write("Please Enter Valid Percentage.");
 // }  
 //>========================================================
-// Functoin..
+// function 
+
+
 
 // function Hello(){
 //     document.write("Hello EveryBody")
@@ -149,21 +151,21 @@
 
 //    return a ;
 // }
-// var fn = fullname("Sumaiya","Shaikh");
-// document.write(fn);
+// // var fn = fullname("Sumaiya","Shaikh");
+// // document.write(fn);
 
-//(addvance,,)
-// function sum(Math, eng , Sci){
-//     var s = Math + eng + Sci;
+// // // (addvance,,)
+// // function sum(Math, eng , Sci){
+// //     var s = Math + eng + Sci;
 
-//     return s ;
-// }
-// function  percentage (tt) {
-//     var per = tt/300 * 100;
-//     document.write(per);
-// }
+// //     return s ;
+// // }
+// // function  percentage (tt) {
+// //     var per = tt/300 * 100;
+// //     document.write(per);
+// // }
 
 
-// var total = sum ( 20 , 15 , 55);
-// percentage(total);
+// // var total = sum ( 20 , 15 , 55);
+// // percentage(total);
 //>=============================================
