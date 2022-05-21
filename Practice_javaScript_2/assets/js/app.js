@@ -123,12 +123,12 @@
 // function Hello(){
 //     document.write("Hello EveryBody")
 // }
-// function Hell(){
+// function Hi(){
 //     document.write("Hello Shumaiyu")
 // }
 // Hello();
 // document.write("<br>");
-// Hell();
+// Hi();
 // document.write("<br>");
 //>====================================================
 //Function with Parameters
