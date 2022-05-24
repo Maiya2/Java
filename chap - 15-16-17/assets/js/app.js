@@ -18,6 +18,9 @@
 // maggi()
 // maggi()
 // maggi()
+
+
+
 //arrays in javascript..
 // var arr = ["sumaiya ","suman ", "sheza ", "hafsa "," Hina"];
 // document.write(arr );
@@ -45,7 +48,7 @@
 
 // alert("wellcome to  " + city3);
 
-// var cities = ["Atlanta", "Busan", "Chicago", "Denver", "Los Angeles", "Seattle"];
+// var cities = ["Atlanta", "Busan", "Chicago", "Seattle"];
 
 // cities[3];
 // alert(cities[1]);
