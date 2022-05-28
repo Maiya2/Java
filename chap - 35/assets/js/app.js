@@ -51,6 +51,19 @@
 // sum(28, 21 );
 // sum(55, 90 );
 
-function MyFrv(){
 
-}
+//Function.. 
+
+// function MyFrv(){
+//     document.write("Hellow ");
+//     document.write("Sumaiya");
+// }
+// MyFrv()
+
+//Function with Parameters..
+
+//  function myname(Fname,lname){
+//      document.write("Hello Good Morning " + Fname + "<br>");
+//      document.write("Hello Good Morning " + lname + "<br>");
+//  }
+//  myname("Sumaiya ","Anni ");
