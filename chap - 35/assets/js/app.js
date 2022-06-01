@@ -62,8 +62,12 @@
 
 //Function with Parameters..
 
-//  function myname(Fname,lname){
-//      document.write("Hello Good Morning " + Fname + "<br>");
-//      document.write("Hello Good Morning " + lname + "<br>");
-//  }
-//  myname("Sumaiya ","Anni ");
+ function myname(Fname,lname,Mname){
+     document.write("Hello Good Morning " + Fname + "<br>");
+     document.write("Hello Good Morning " + lname + "<br>");
+     document.write("Hello Good Morning " + Mname + "<br>");
+ }
+ myname("Sumaiya ","Anni ","Rubab ");
+ myname("Fizza ","Kiran ","Maiya");
+ myname("Hafsa ","Waniya ","Hina");
+ 
