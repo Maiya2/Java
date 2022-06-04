@@ -167,6 +167,3 @@
 // // var total = sum ( 20 , 15 , 55);
 // // percentage(total);
 //>=============================================
-var d = new Date ();
-var sumi = d.toLocaleTimeString();
-document.write(sumi);

@@ -30,61 +30,88 @@
 
 // }
 //>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-// var days = 6;
-//  switch (days) {
-//              case 0:
-//          document.write("Today is Monday")
-//          break;
-//               case 1: 
-//         document.write("Today is Tuesday")
-//          break;
-//                case 2: 
-//                document.write("Today is wednesday")
-//          break;
-//                case 3: 
-//                document.write("Today is Thursday")
-//          break;
-//               case 4: 
-//               document.write("Today is Friday")
-//          break;
-//               case 5: 
-//               document.write("Today is Saturday")
-//          break;
-//                case 6: 
-//                document.write("Today is Sunday")
-//          break;
+var days = 5;
+ switch (days) {
+             case 0:
+         document.write("Today is Monday")
+         break;
+              case 1: 
+        document.write("Today is Tuesday")
+         break;
+               case 2: 
+               document.write("Today is wednesday")
+         break;
+               case 3: 
+               document.write("Today is Thursday")
+         break;
+              case 4: 
+              document.write("Today is Friday")
+         break;
+              case 5: 
+              document.write("Today is Saturday")
+         break;
+               case 6: 
+               document.write("Today is Sunday")
+         break;
  
-//      default:
-//     document.write("Enter the Valid Day")
-//  }
+     default:
+    document.write("Enter the Valid Day")
+ }
 //>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
   //switch......(case......................)
 
-//  var pre = "20";
+//  var pre = "97";
 //  switch(pre){
-//     case "80":
+//     case "97.5":
 //        document.write("your grade A+");
 //        break;
-//        case "60":
-//        document.write("your grade B");
+
+//        case "92.5":
+//        document.write("your grade A");
 //        break;
-//        case "50":
-//          document.write("your grade C");
+
+//        case "90.0":
+//          document.write("your grade A-");
 //          break;
-//          case "30":
-//             document.write("your grade D");
+
+//          case "87.5":
+//             document.write("your grade B+");
 //             break;
-//             default:
-//                document.write("Pas");
+
+//             case " 82.5" :
+//               document.write("your grade B")
+//                 break;
+
+
+//             case " 80.0" :
+//               document.write("your grade B-")
+//                 break;
+                
+//                 case " 77.5" :
+//               document.write("your grade C+")
+//                 break;
+
+//                 case " 72.5" :
+//               document.write("your grade C")
+//                 break;
+
+//                 case " 70.0" :
+//               document.write("your grade C-")
+//                 break; 
+//                 case " 67.5" :
+//                   document.write("your grade D+")
+//                     break;
+                  
+//               default:
+//                document.write("Pass");
                
 //  }
 //===============================================================================>
 //loops..
-// var cleanestCities = ["Seoul.", "Busan.", "Daegu", "Gwangju.", "Sejong."];
-// var citytocheck = prompt("enter the city name..")
-// for (var  i=0; i<=4; i++ ){
+// let cleanestCities = ["Seoul.", "Busan.", "Daegu", "Gwangju.", "Sejong."];
+// let citytocheck = prompt("enter the city name..")
+// for (const  i=0; i<=4; i++ ){
 //    if (citytocheck === cleanestCities[i]);
-
 //    alert("Its one of the cleanest cities")
 //    break;
 // }
